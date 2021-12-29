@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "micropython-library-test-stubs"
-version = "1.17.2"
+version = "1.17.3"
 description = "Sample project for PEP-561 distribution testing"
 authors = ["josverl <josverl@users.noreply.github.com>"]
 license = "MIT"
